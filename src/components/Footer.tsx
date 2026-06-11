@@ -98,7 +98,7 @@ export default function Footer() {
             &copy; {year} {CLINIC.name}. All rights reserved.
           </p>
           <p className="text-xs text-cream/35">
-            BUILD BY: NEXT LIKHA
+            BUILT BY: NEXT LIKHA
           </p>
         </div>
       </div>
